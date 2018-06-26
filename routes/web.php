@@ -11,6 +11,8 @@
 |
 */
 
+//REFERENSI --> https://commit-cyber.com/tutorial/membuat-native-role-authorization-di-laravel
+
 Route::get('/', function () {
     return view('welcome');
 });
